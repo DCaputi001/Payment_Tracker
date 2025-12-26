@@ -15,6 +15,7 @@ Payment Tracker is a full-stack web application for tracking and managing non-ca
 7. [Component Documentation](#component-documentation)
 8. [Edge Functions](#edge-functions)
 9. [Configuration](#configuration)
+10. [Screenshots](#screenshots)   
 
 ---
 
@@ -454,6 +455,30 @@ npm run build       # Test production build
 2. Navigate dates with arrows or date pickers
 3. Click payment method buttons to filter
 4. Click "All Time" to clear date filters
+
+---
+
+## Screenshots
+
+This section provides visual documentation of the Payment Tracker application. Screenshots help illustrate the user interface, key workflows, and overall functionality.
+
+### Dashboard Overview
+Displays the main application view with summary cards, filters, and the payments table.
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Add Payment Modal
+Shows the modal form used to create a new payment record.
+![Add Payment Modal](screenshots/add-payment.png)
+
+### Edit Payment Flow
+Illustrates editing an existing payment record.
+![Edit Payment Flow](screenshots/edit-payment.png)
+
+### Filtering and Search
+Demonstrates searching by client name, date navigation, and payment method filtering.
+![Filtering and Search](screenshots/filtering.png)
+
+
 
 ---
 
